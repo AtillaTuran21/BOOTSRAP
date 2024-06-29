@@ -1,0 +1,14 @@
+.renk-bg{
+    background-color:rgb(15, 132, 228);
+}
+.res:hover{
+    box-shadow: 10px 10px 5px rgb(63, 64, 68);
+}
+.darkblue-bg{
+    background-color: darkblue;
+}
+.yazi:hover{
+    text-decoration: 5px solid underline;
+    text-decoration-color: red;
+    
+}

@@ -1,0 +1,17 @@
+.bg-darkBlue{
+    background-color: rgb(35,47,62);
+}
+.bg-lightBlue{
+    background-color: rgb(175,214,234);
+}
+
+.hoverbtn:hover{
+    background-color: rgb(48, 59, 59) !important;
+    color:white;
+}
+.border-gray {
+    border-color: #AAB7B8 !important;
+}
+.bg-gray{
+    background-color:#FAFAFA;
+}
